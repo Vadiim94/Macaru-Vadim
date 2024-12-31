@@ -1,0 +1,349 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV|Vadim</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-aweasome/5.15.2/css">
+</head>
+
+<body >
+    <!--START HEADER-->
+    <header>
+        <div class="header centered">
+            <nav>
+                <a class="nav-link" href="#despre">
+                    Despre
+                </a>
+                <a class="nav-link" href="#experienta">
+                    Experiență
+                </a>
+                <a class="nav-link" href="#educatie">
+                    Educație
+                </a>
+                <a class="nav-link" href="pages/contacte.html">
+                    Contact
+                </a>
+            </nav>
+        </div>
+    </header>
+    <!--END HEADER-->
+    <!--START MAIN-->
+    <main>
+        <div class="main">
+            <div class="info"  id="despre">
+                <div class="centered">
+                    <img class="foto-eu" width="200"
+                        src="images/0-02-05-b4abd74a9f418c82f74dd2ca1faece735cad2c711e2c3521345fcafeb235687b_edb40dbf87cca675.jpg">
+                    <h2 class="verde">
+                        Macaru Vadim
+                    </h2>
+                </div>
+                <!--<table>
+                    <div class="celula_main">
+                    <tr>
+                        <td class="celula-abilitati">
+                            <i class="fas fa-user-tie"></i>
+                            <span class="verde">
+                                Profesor de Istorie, Geografie, Informatică.
+                            </span>
+                            <br>
+                            <br>
+                            <i class="fas verde fa-language">
+
+                            </i>
+                            <span class="verde">
+                                Română, Engleză, Rusă
+                            </span>
+                            <br>
+                            <br>
+                            <i class="fa-solid verde fa-envelope"></i>
+                            <a class="mail" href="mailto:macaruvadim@gmail.com">
+                                macaruvadim@gmail.com
+                            </a>
+
+                            <br>
+                            <br>
+                            <i class="fa-solid verde fa-phone"></i>
+                            <a class="tel" href="tel:+37360459216">
+                                +37360459216
+                            </a>
+                        </td>
+                        <td class="celula-text">
+                            <p class="text-despre">
+                                Profesor de Istorie Universală a Românilor și Geografie,
+                                <br>
+                                Diriginte la Școlile
+                                IP Gimnaziul Mitoc mun. Orhei sat.Mitoc și IP Gimnaziul "Grigore Vieru„ mun. Orhei
+                                Claselor
+                                a VIII-a.
+                                <br>
+                                Parciciparea la concursuri, seminare, mese rotunde.
+                                <br>
+                                Totodată realizez
+                                cursuri la UPSC-recalificare la informatică și Dezvoltare WEB.
+                            </p>
+                        </td>
+                    </tr>
+                </div>
+                </table>
+                
+                <table class="tabel-gal">
+                    <tr>
+                        <td class="celula-img">
+                            <a target="_blank" href="images/gal1.jpg">
+                                <img class="img-gal" src="images/gal1.jpg">
+                            </a>
+                        </td>
+                        <td class="celula-img">
+                            <a target="_blank" href="images/gal2.jpg">
+                                <img class="img-gal" src="images/gal2.jpg">
+                            </a>
+                        </td>
+                        <td class="celula-img">
+                            <a target="_blank" href="images/gal3.jpg">
+                                <img class="img-gal" src="images/gal3.jpg">
+                            </a>
+                        </td>
+                        <td class="celula-img">
+                            <a target="_blank" href="images/gal4.jpg">
+                                <img class="img-gal" src="images/gal4.jpg">
+                            </a>
+                        </td>
+                    </tr>
+                </table>
+            -->
+                <div class="celula_main">
+                    <div class="celula_abl">
+                        <p>
+                            <i class="fas fa-user-tie"></i>
+                            <span class="verde">
+                                Profesor de Istorie, Geografie, Informatică.
+                            </span>
+                            <br>
+                            <br>
+                            <i class="fas verde fa-language">
+
+                            </i>
+                            <span class="verde">
+                                Română
+                            </span>
+                            <br>
+                            <br>
+                            <i class="fa-solid verde fa-envelope"></i>
+                            <a class="mail" href="mailto:macaruvadim@gmail.com">
+                                macaruvadim@gmail.com
+                            </a>
+
+                            <br>
+                            <br>
+                            <i class="fa-solid verde fa-phone"></i>
+                            <a class="tel" href="tel:+37360459216">
+                                +37360459216
+                            </a>
+                            <br>
+                            <br>
+                            <a href="" download="kaminari logo for something else.pdf">
+                                <i class="fa-solid fa-file-arrow-down blue"></i> Descarcă CV-PDF
+                            </a>
+                        </p>
+                    </div>
+                    <div class="celula_txt">
+                        <p>
+                            Începând cu anul 2015, activez ca profesor de Istorie, EPS și Informatică la IP Gimnaziul Grigore
+                            Vieru din Orhei, și ca profesor de Geografie la IP Gimnaziul Mitoc din localitatea Mitoc, Orhei. În
+                            această perioadă, am mentorat echipele școlare Tekwill în fiecare școală, coordonând activități de
+                            Design Grafic și Dezvoltare Web, în anul 2024 am obținut locuri premiante: locul I – semifinala,
+                            categoria Design Grafic, locul III – la nivel național – categoria Proiectare și Dezvoltarea WEB,
+                            realizând site-ul gimnaziului Mitoc. <span id="dots">...</span>
+                            <span class="more-content" id="more">
+                                Am participat la diverse concursuri, seminare legate de istorie,
+                                geografie, fiind implicat activ în organizarea de evenimente și activități în cadrul instituției și la nivel
+                                municipal. Am avut ocazia să ghidez diverse proiecte și cercetări, participând la activități educaționale
+                                și culturale, inclusiv vizite la situri istorice și obiective de patrimoniu național. La moment sunt în
+                                proces de a mă forma deplin că mentor instituțional pentru a putea aduce o contribuție la sporirea
+                                educației din Republica Moldova.
+                                <br>
+                                <br>
+                                 Am publicat mai multe articole științifice în cadrul sesiunilor naționale de comunicări științifice
+                                universitare precum:
+                                <ul>
+                                    <li>
+                                        Armamentului și arta militară la Normanzi (2018);
+                                    </li>
+                                    <br>
+                                    <li>
+                                        Zece curiozități despre orașul
+                                        Orhei (2016);
+                                    </li>
+                                    <br>
+                                    <li>
+                                        Publicarea articolului în ziarele Opinia Liberă și Acasă Articolul Gheorghe Maxian
+                                        – Orheianul de la Dolna – 75 ani de la naștere - 2023;
+                                    </li>
+                                    <br>
+                                    <li>
+                                        Publicarea articolului în Opinia Liberă, intitulat Expoziția albumului evreiesc.
+                                    </li>
+                                </ul>
+                                De asemenea, am fost implicat în proiecte educaționale și de cercetare ce privesc istoria deportărilor
+                                din Basarabia și istoria evreilor în Republica Moldova, colaborând cu diverse organizații și instituții în
+                                acest sens.
+                            </span>
+                        </p>
+                        <span class="more-button" onclick="toggleText()" id="readMoreButton">Citește mai mult</span>
+                        <p>
+                        </p>
+                    </div>
+
+                </div>
+               
+            </div>
+            <div class="info">
+                <table class="tabel-gal">
+                    <tr>
+                        <td class="celula-img">
+                            <a target="_blank" href="images/gal1.jpg">
+                                <img class="img-gal" src="images/gal1.jpg">
+                            </a>
+                        </td>
+                        <td class="celula-img">
+                            <a target="_blank" href="images/gal2.jpg">
+                                <img class="img-gal" src="images/gal2.jpg">
+                            </a>
+                        </td>
+                        <td class="celula-img">
+                            <a target="_blank" href="images/gal3.jpg">
+                                <img class="img-gal" src="images/gal3.jpg">
+                            </a>
+                        </td>
+                        <td class="celula-img">
+                            <a target="_blank" href="images/gal4.jpg">
+                                <img class="img-gal" src="images/gal4.jpg">
+                            </a>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="info" id="experienta" >
+                <h2 class="centered verde">Experienta de lucru </h2>
+                <div class="item">
+                    <h3 class="item-h3 verde">
+                        <i class="fas fa-suitcase"></i>
+                        Profesor
+                    </h3>
+                    <span>2015 - Prezent</span>
+                    <p>
+                        Profesor de Istorie și Informatică IP Gimnaziul Grigore Vieru mun.Orhei
+                    </p>
+                </div>
+                <div class="item">
+                    <h3 class="item-h3 verde">
+                        <i class="fas fa-suitcase"></i>
+                        Profesor
+                    </h3>
+                    <span>2016 - Prezent</span>
+                    <p>
+                        Profesor de Geografie și Informatică/ Proiectarea și Dezvoltarea WEB în IP Gimnaziul Mitoc s.Mitoc.
+                    </p>
+                    
+                </div>
+            </div>
+            <div class="info" id="educatie" >
+                <h2 class="centered verde">Educație</h2>
+
+                <div class="item">
+                    <h3 class="item-h3 verde">
+                        <i class="fas fa-graduation-cap"></i>
+                        Master în istorie
+                    </h3>
+                    <span>2018 - 2020</span>
+                    <p>
+                        Universitatea de Stat din Moldova, programul de studii Stat societate din perspectivă istorică <br> (forme
+                        de guvernare, securitate naționalăți relații internaționale) ciclul II, master în istorie.
+                    </p>
+                </div>
+                <div class="item">
+                    <h3 class="item-h3 verde">
+                        <i class="fas fa-graduation-cap"></i>
+                        Licență
+                    </h3>
+                    <span>2014 - 2018</span>
+                    <p>
+                        Universitatea de Stat din Moldova, programul de studii ciclul I, licențiat în științe umanistice.
+                    </p>
+                </div>
+                <div class="item">
+                    <h3 class="item-h3 verde">
+                        <i class="fas fa-graduation-cap"></i>
+                        Cursuri de Recalificare
+                    </h3>
+                    <ul>
+                        <li>
+                            <p>
+                                2024 - UPSC – Universitatea Pedagogică de Stat ,,ION CREANGĂ”, studii de recalificare la disciplina
+                                Informatică;
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                2020 - Universitatea de Stat din Moldova, studii de recalificare la disciplina Geografie.
+                            </p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </main>
+    <!--END MAIN-->
+    <!--START FOOTER-->
+    <footer>
+        &copy; Macaru Vadim 2024
+    </footer>
+    <!--END FOOTER-->
+    <script src="main.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="https://kit.fontawesome.com/925e1f2e32.js" crossorigin="anonymous"></script>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+</body>
+
+</html>
