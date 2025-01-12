@@ -1,0 +1,92 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV|Vadim</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-aweasome/5.15.2/css">
+</head>
+
+<body>
+    <!--START HEADER-->
+    <header>
+        <div class="header centered">
+            <i onclick="toggleNavbar()" class="fa-solid fa-bars hamburger-menu"></i>
+            <nav id="nav">
+                <a class="nav-link" href="../index.html">Despre</a>
+                <a class="nav-link" href="#experienta">Experiență</a>
+                <a class="nav-link" href="#educatie">Educație</a>
+                <a class="nav-link" href="pages/contacte.html">Contact</a>
+            </nav>
+            <i onclick="myFunction()" class="nav-link-mode fa-solid fa-circle-half-stroke"></i>
+        </div>
+    </header>
+    <!--END HEADER-->
+    <!--START MAIN-->
+    <main>
+        <div class="main">
+            <div class="info">
+                <table class="tabel-contacte">
+                    <tr>
+                        <td class="celula-formular">
+                            <h3 class="centered verde">Contactează-mă</h3>
+                            <br>
+                            <form id="formular" method="post" action="https://sheetdb.io/api/v1/36uxidyd0txtb">
+                                <input type="text" name="data[nume]" class="text-input" placeholder="Nume Prenume">
+                                <input type="email" name="data[email]" id="" placeholder="Email" class="text-input">
+                                <textarea class="intrebare" name="data[intrebare]" id=""
+                                    placeholder="Adresează-mi o întrebare">
+                                </textarea>
+                                <input type="submit" name="" id="transmite" value="Transmite">
+                            </form>
+                        </td>
+
+                        <td class="celula-harta">
+                            <iframe class="harta"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2702.8484851258204!2d28.811599800000007!3d47.356356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40cbef4aff186469%3A0xb1bfcdf1b5ecc478!2sGimnaziul%20%22Grigore%20Vieru&#39;&#39;!5e0!3m2!1sen!2s!4v1701945711630!5m2!1sen!2s"
+                                style="border:0;" allowfullscreen="" loading="lazy"
+                                referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </td>
+                    </tr>
+                </table>
+
+                <div class="fb-comments" data-width="100%" data-href="https://tekwill.online/macaru-vadim"
+                    data-order-by="reverse_time" data-numposts="5">
+
+                </div>
+            </div>
+        </div>
+    </main>
+    <!--END MAIN-->
+    <!--START FOOTER-->
+    <footer>
+        Macaru Vadim 2023
+    </footer>
+    <!--END FOOTER-->
+    <script>
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+
+        var form = document.getElementById('formular')
+        form.addEventListener("submit", e => {
+            e.preventDefault();
+            fetch(form.action, {
+                method: "POST",
+                body: new FormData(document.getElementById("formular")),
+            }).then(() => {
+                alert("Mulțumec!!!!!!!");
+                form.reset();
+            });
+        });
+    </script>
+
+    <script src="https://kit.fontawesome.com/925e1f2e32.js" crossorigin="anonymous"></script>
+</body>
+<script src="../main.js"></script>
+</html>
